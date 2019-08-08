@@ -198,6 +198,3 @@ submission.to_csv(data_path + 'Model_1_CatBoost.csv', float_format='%.6f',index=
 
 predictions_model_1 = pd.read_csv(data_path + 'Model_1_CatBoost.csv')
 predictions_model_1.head()
-
-
-
