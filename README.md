@@ -2,7 +2,7 @@ FINAL PROJECT EMMA MACHADO
 
 ZILLOW PRIZE
 
-https://github.com/emachadoc/final-project-emma-machado.git
+https://github.com/emachadoc/zillow-competition
 
 Datos de la competición en:
 
